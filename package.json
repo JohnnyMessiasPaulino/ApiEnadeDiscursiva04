@@ -1,7 +1,7 @@
 {
   "name": "apienade",
   "version": "1.0.0",
-  "description": "Exemplo de API para responder questão discursiva 04 do Enade 2019, projeto baseado no código de Gabriel Baptista, disponível em https://github.com/gabrielbaptista/enade2019",
+  "description": "Exemplo de API para responder questão discursiva 04 do Enade 2019, projeto baseado no código do Prof. Gabriel Baptista, disponível em https://github.com/gabrielbaptista/enade2019",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
